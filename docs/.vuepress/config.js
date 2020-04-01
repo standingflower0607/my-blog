@@ -59,6 +59,7 @@ module.exports = {
         ]
       }
     ],
+
     "type": "blog",
     "blogConfig": {
       "category": {
@@ -80,6 +81,14 @@ module.exports = {
     "authorAvatar": "/for_insta.jpg",
     "record": "xxxx",
     "startYear": "2020"
+  },
+  "plugins": {
+    'seo': { /* options */ }, 'sitemap': {
+      hostname: 'https://kan-tachibana.netlify.com/'
+    },
+    'feed': {
+      canonical_base: 'https://kan-tachibana.netlify.com/'
+    }
   },
   "markdown": {
     "lineNumbers": true
