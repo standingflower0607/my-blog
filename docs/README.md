@@ -23,3 +23,5 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+
+<script> export default { mounted() { document.querySelector( 'div.info-wrapper > div.personal-info-wrapper > div > div:nth-child(1) > h6' ).innerText = 'articals'; document.querySelector( 'div.info-wrapper > div.personal-info-wrapper > div > div:nth-child(2) > h6' ).innerText = 'tags'; document.querySelector('h4:nth-child(2)').innerText = 'categories'; document.querySelector('h4:nth-child(5)').innerText = 'tags'; } } </script>

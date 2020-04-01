@@ -53,7 +53,7 @@ module.exports = {
           {
             "text": "Portfolio",
             "link": "https://standingflower0607.github.io/",
-            "icon": "reco-acount"
+            "icon": "reco-account"
           }
 
         ]

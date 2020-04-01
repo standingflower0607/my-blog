@@ -1,11 +1,10 @@
-# vuepress-theme-reco-demo
+#My personal blog
 
-Blog demo for vuepress-theme-reco
+[here](https://kan-tachibana.netlify.com/)
 
-```bash
-# 编译
-npm run build
 
-# 启动
-npm run dev
-```
+boosted by [vuepress](https://vuepress.vuejs.org/)
+
+This blog is using [vuepress-theme-reco-demo](https://vuepress-theme-reco.recoluan.com/en/)
+
+
