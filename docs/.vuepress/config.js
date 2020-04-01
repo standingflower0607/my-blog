@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "my-blog",
-  "description": "my-blog",
+  "title": "Canned Bananas",
+  "description": "Kan Tachibana's blog",
   "dest": "docs/.vuepress/dist",
   "head": [
     [
