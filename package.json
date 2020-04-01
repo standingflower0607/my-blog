@@ -4,7 +4,8 @@
   "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "update": "git add . && git commit -m 'update' && git push origin master"
   },
   "devDependencies": {
     "vuepress": "1.3.1",
