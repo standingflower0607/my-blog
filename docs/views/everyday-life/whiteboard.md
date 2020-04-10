@@ -11,7 +11,7 @@ publish: true
 ---
 最近、自分の部屋にホワイトボードを買いました。
 
-！[whiteboard](/images/IMG_5839.JPG)
+！[whiteboard](/images/post/IMG_5839.JPG)
 
 思考の整理ができて、とても良いです。
 

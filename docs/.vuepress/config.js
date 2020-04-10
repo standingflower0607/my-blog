@@ -71,14 +71,14 @@ module.exports = {
         "text": "Tag"
       }
     },
-    "logo": "/logo.png",
+    "logo": "/images/necessesities/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "smoothScroll": true,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
     "author": "Kan Tachibana",
-    "authorAvatar": "/for_insta.jpg",
+    "authorAvatar": "/images/necessesities/for_insta.jpg",
     "record": "xxxx",
     "startYear": "2020"
   },
