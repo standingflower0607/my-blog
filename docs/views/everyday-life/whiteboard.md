@@ -4,7 +4,7 @@ date: 2020-04-11
 sidebar: 'auto'
 image : /images/thumbnail/whiteboard.jpg
 categories:
- - backend
+ - everday-life
 tags:
  - shopping
 publish: true
