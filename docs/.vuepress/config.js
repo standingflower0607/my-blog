@@ -103,6 +103,9 @@ module.exports = {
     }
   },
   "markdown": {
-    "lineNumbers": true
+    "lineNumbers": true,
+    config: md => {
+      md.use(require('markdown-it-video'))
+    }
   }
 }

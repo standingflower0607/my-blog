@@ -9,6 +9,7 @@
     "thumbnail": "python3 ../thumbnail_generator/main.py"
   },
   "devDependencies": {
+    "markdown-it-video": "^0.6.3",
     "vuepress": "1.3.1",
     "vuepress-theme-reco": "1.3.2"
   },
