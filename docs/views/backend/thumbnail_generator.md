@@ -2,7 +2,7 @@
 title: pythonでブログのアイキャッチを自動生成する
 date: 2020-04-02
 sidebar: 'auto'
-image : /images/avatar.png
+image : /images/thumbnail/thumbnailGenerate.jpg
 categories:
  - backend
 tags:
