@@ -24,3 +24,6 @@ publish: true
 ``` bash
 pip install pillow
 ```
+
+
+![thumbnail](/images/thumbnail/thumbnailGenerate.jpg)
