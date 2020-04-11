@@ -9,3 +9,13 @@ tags:
  - image
 publish: true
 ---
+
+::: warning 
+この記事は書き途中です
+:::
+
+今日は、ブログ用の画像をターミナルからコマンドで、圧縮していきたいと思います。
+
+``` bash 
+brew install imagemagick
+```
